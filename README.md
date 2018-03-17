@@ -22,4 +22,5 @@ Once installed you can use the default hotkey of `<leader>gl` when editing a fil
 
 Feedback
 ================
-Please feel free to give any and all feedback or pull requests.
+If you like this plugin, star it! It's a great way of getting feedback.
+In addition, please feel free to give any and all feedback or pull requests.
