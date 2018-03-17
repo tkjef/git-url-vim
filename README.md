@@ -30,8 +30,8 @@ https://github.com/tpope/vim-pathogen
 Use
 ================
 Once installed you can use the default hotkey of `<leader>gu` when editing a file.   
-Default <leader> is \  
-This creates a github url to the branch, file, and line and puts it on your clipboard.  
+Default `<leader>` is `\` so use `\gu` if you haven't altered your leader.  
+This creates a github url to the branch, file, and line number you're currently on and puts it on your clipboard.  
 It will also be provided in the lower left hand corner to be clicked on.
 
 Feedback
