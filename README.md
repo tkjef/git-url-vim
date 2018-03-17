@@ -18,7 +18,7 @@ git clone https://github.com/tkjef/vim-github-urls
 
 Use
 ================
-Once installed you can use the default hotkey of `<leader>gl` when editing a file.  This creates a github url to the branch, file, and line and puts it on your clipboard. It will also be echoed for you to see.  
+Once installed you can use the default hotkey of `<leader>gu` when editing a file.  This creates a github url to the branch, file, and line and puts it on your clipboard. It will also be echoed for you to see.  
 
 Feedback
 ================
