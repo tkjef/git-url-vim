@@ -17,11 +17,14 @@ This uses a hotkey that creates a github url to the branch, file, and line numbe
 
 Installation
 ================
-I recommend pathogen:
+I recommend to install with pathogen:
 ```
 cd ~/.vim/bundle
 git clone https://github.com/tkjef/vim-github-urls
 ```
+
+If you don't have Pathogen installed here is the repo with installation instructions:  
+https://github.com/tpope/vim-pathogen
 
 Use
 ================
