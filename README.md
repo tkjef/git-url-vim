@@ -1,4 +1,4 @@
-vim-github-urls
+vim_github_urls
 ================
 
 A vim plugin to create github urls.  
@@ -21,7 +21,7 @@ Installation
 I recommend to install with pathogen:
 ```
 cd ~/.vim/bundle
-git clone https://github.com/tkjef/vim-github-urls
+git clone https://github.com/tkjef/vim_github_urls
 ```
 
 If you don't have Pathogen installed here is the repo with installation instructions:  
