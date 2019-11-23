@@ -21,7 +21,7 @@ Installation
 I recommend to install with pathogen:
 ```
 cd ~/.vim/bundle
-git clone https://github.com/tkjef/vim_github_urls
+git clone https://github.com/tkjef/git-url
 ```
 
 If you don't have Pathogen installed here is the repo with installation instructions:  
