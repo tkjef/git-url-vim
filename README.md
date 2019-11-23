@@ -1,4 +1,4 @@
-vim_github_urls
+git-url
 ================
 
 A vim plugin to create github urls.  
