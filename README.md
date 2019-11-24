@@ -23,3 +23,8 @@ This creates a github url to the branch, file, and line number you're currently 
 It will also be provided in the lower left hand corner to be clicked on.
 
 ![https://github.com/tkjef/vim-github-urls/blob/master/vim-github-urls_screenshot.png](https://github.com/tkjef/vim-github-urls/blob/master/vim-github-urls_screenshot.png)
+   
+## Roadmap
+
+v1.0   
+  -add compatibility for any git service provider
