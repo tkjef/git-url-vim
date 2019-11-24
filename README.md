@@ -2,8 +2,9 @@
 A vim plugin to create github urls.  
 
 ## Purpose
-This uses a hotkey that creates a github url to the branch, file, and line number of the file + line you're currently editing.  
-It puts this url on your clipboard for easy sharing as well as provides a url link to click in the lower left hand corner.
+Uses hotkey `\gu` to create github url to branch, file, and line number of file + line currently being edited.
+   
+The url is then on your clipboard for sharing. Also, a url link to click in the lower left hand corner appears.
 
 ## Installation
 I recommend to install with pathogen:
