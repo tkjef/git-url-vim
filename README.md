@@ -1,4 +1,4 @@
-# git-url
+# vim-git-url
 A vim plugin to create github urls.  
 
 ## Purpose
@@ -10,7 +10,7 @@ The url is then on your clipboard for sharing. Also, a url link to click in the 
 I recommend to install with pathogen:
 ```
 cd ~/.vim/bundle
-git clone https://github.com/tkjef/git-url
+git clone https://github.com/tkjef/vim-git-url
 ```
 
 If you don't have Pathogen installed here is the repo with installation instructions:  
@@ -22,9 +22,4 @@ Default `<leader>` is `\` so use `\gu` if you haven't altered your leader.
 This creates a github url to the branch, file, and line number you're currently on and puts it on your clipboard.  
 It will also be provided in the lower left hand corner to be clicked on.
 
-![https://github.com/tkjef/vim-github-urls/blob/master/vim-github-urls_screenshot.png](https://github.com/tkjef/vim-github-urls/blob/master/vim-github-urls_screenshot.png)
-   
-## Roadmap
-
-v1.0   
-  -add compatibility for any git service provider
+![https://github.com/tkjef/vim-git-url/blob/master/vim-github-urls_screenshot.png](https://github.com/tkjef/vim-git-url/blob/master/vim-github-urls_screenshot.png)
