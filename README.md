@@ -1,5 +1,5 @@
 # vim-git-url
-A vim plugin to create github urls.  
+A vim plugin to create a url to the code's git repo line number.   
 
 ## Purpose
 Uses hotkey `\gu` to create github url to branch, file, and line number of file + line currently being edited.
